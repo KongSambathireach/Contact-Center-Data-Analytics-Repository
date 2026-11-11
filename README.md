@@ -1,4 +1,4 @@
-# Contact-Center-Data-Analytics-Repository
+# Contact-Center-Data-Analytics
 A contact center analytics project focused on analyzing incoming call volume, service performance, customer waiting time, and operational demand using Microsoft Excel, Power Query, Power Pivot, and Power BI.
 
 ## Objectives
