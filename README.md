@@ -187,3 +187,11 @@ By completing this project, the analysis aims to deliver the following outcomes:
 | 04. KPI Development | Define and implement contact center KPI calculations using DAX. | Not Started |
 | 05. Power BI Development | Build interactive dashboards and operational reports. | Not Started |
 | 06. Business Analysis | Interpret findings and develop data-driven business recommendations. | Not Started |
+
+
+## Contact
+
+**Kong Sambathireach**
+
+- LinkedIn: [Your LinkedIn Profile](linkedin.com/in/kong-sambathireach-ab7305249/
+- Email: ksambathireach@gmail.com
