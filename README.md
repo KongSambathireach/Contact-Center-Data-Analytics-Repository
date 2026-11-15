@@ -193,5 +193,5 @@ By completing this project, the analysis aims to deliver the following outcomes:
 
 **Kong Sambathireach**
 
-- LinkedIn: [Your LinkedIn Profile](linkedin.com/in/kong-sambathireach-ab7305249/
-- Email: ksambathireach@gmail.com
+- LinkedIn: [Kong Sambathireach](https://www.linkedin.com/in/kong-sambathireach-ab7305249/)
+- Email: [ksambathireach@gmail.com](mailto:ksambathireach@gmail.com)
