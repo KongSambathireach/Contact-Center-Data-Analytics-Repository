@@ -30,6 +30,19 @@ The analysis aims to understand incoming call patterns, evaluate service efficie
 - How can workforce scheduling be optimized to match incoming call patterns?
 - What actions should management prioritize to improve service efficiency and customer experience?
 
+### Data Analytics Workflow
+
+This project follows a six-step data analysis workflow to ensure a structured and systematic approach to solving business problems and generating actionable insights.
+
+| Step | Workflow | Description |
+|---|---|---|
+| 01 | Business Question | Define the business problem, objectives, and key questions that the analysis aims to answer. |
+| 02 | Get Data | Collect and identify the relevant data sources required for the analysis. |
+| 03 | Explore Data | Perform initial data exploration and visual analysis to understand dataset structure, distributions, patterns, and potential issues. |
+| 04 | Prepare Data | Clean and transform data, create calculated fields, handle missing values, and validate data quality. |
+| 05 | Analyze Data | Apply analytical techniques to identify trends, patterns, relationships, and insights based on business requirements. |
+| 06 | Present Findings | Communicate analytical results through reports, dashboards, visualizations, and actionable business recommendations. |
+
 ## Four layer of Analysis
 
 ### Metrics (What do we measure?)
